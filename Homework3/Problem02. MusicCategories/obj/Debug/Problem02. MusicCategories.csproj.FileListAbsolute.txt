@@ -1,0 +1,6 @@
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem02. MusicCategories\bin\Problem02.MusicCategories.dll.config
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem02. MusicCategories\bin\Problem02.MusicCategories.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem02. MusicCategories\bin\Problem02.MusicCategories.pdb
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem02. MusicCategories\obj\Debug\Problem02. MusicCategories.csprojResolveAssemblyReference.cache
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem02. MusicCategories\obj\Debug\Problem02.MusicCategories.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem02. MusicCategories\obj\Debug\Problem02.MusicCategories.pdb

@@ -1,0 +1,5 @@
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem06. News\bin\Problem06.News.dll.config
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem06. News\bin\Problem06.News.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem06. News\bin\Problem06.News.pdb
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem06. News\obj\Debug\Problem06.News.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem06. News\obj\Debug\Problem06.News.pdb

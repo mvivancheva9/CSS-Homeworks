@@ -1,0 +1,6 @@
+E:\Telerik Academy Courses\CSS\Homework\Homework2\Problem01. LoremIpsumPage\bin\Problem01.LoremIpsumPage.dll.config
+E:\Telerik Academy Courses\CSS\Homework\Homework2\Problem01. LoremIpsumPage\bin\Problem01.LoremIpsumPage.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework2\Problem01. LoremIpsumPage\bin\Problem01.LoremIpsumPage.pdb
+E:\Telerik Academy Courses\CSS\Homework\Homework2\Problem01. LoremIpsumPage\obj\Debug\Problem01. LoremIpsumPage.csprojResolveAssemblyReference.cache
+E:\Telerik Academy Courses\CSS\Homework\Homework2\Problem01. LoremIpsumPage\obj\Debug\Problem01.LoremIpsumPage.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework2\Problem01. LoremIpsumPage\obj\Debug\Problem01.LoremIpsumPage.pdb

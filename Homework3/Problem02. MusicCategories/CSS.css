@@ -1,0 +1,53 @@
+﻿body {
+}
+section{
+    width: 600px;
+    border-radius: 10px;
+    background-color: lightgray;
+    padding-bottom: 20px;
+}
+h1{
+    font-family: Arial;
+    font-weight:normal;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+article{
+    margin-top: 30px;
+    width: 90%;
+    border: 1px solid black;
+    background-color: white;
+    margin-left: 17px;
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 110px;
+}
+.image{
+    float: left;
+    border: 1px solid black;
+}
+.text{
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 0px;
+    font-family: Verdana;
+    font-size: 12px;
+
+}
+.listen{
+    background-image: url("listen.png");
+    width: 79px;
+    height: 29px;
+    float:left;
+    margin-top: 55px;
+}
+.add{
+    background-image: url("add.png");
+    width: 62px;
+    height: 29px;
+    margin-left: 4px;
+    float:left;
+    position: absolute;
+    margin-top: 55px;
+}

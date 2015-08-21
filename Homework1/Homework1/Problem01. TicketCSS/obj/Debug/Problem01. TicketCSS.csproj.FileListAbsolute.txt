@@ -1,0 +1,5 @@
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem01. TicketCSS\bin\Problem01.TicketCSS.dll.config
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem01. TicketCSS\bin\Problem01.TicketCSS.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem01. TicketCSS\bin\Problem01.TicketCSS.pdb
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem01. TicketCSS\obj\Debug\Problem01.TicketCSS.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem01. TicketCSS\obj\Debug\Problem01.TicketCSS.pdb

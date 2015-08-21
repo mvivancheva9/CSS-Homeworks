@@ -1,0 +1,36 @@
+﻿body {
+    background-color: #a9a9a9;
+}
+h1, li, nav, .navigation {
+    color: white;
+}
+.navigation{
+    text-decoration: none;
+    
+}
+h1{
+    font-size: 25px;
+}
+.current{
+    text-decoration: none;
+    background-color: #d3d3d3;
+    font-weight: bold;
+    color: white;
+}
+#last{
+    text-decoration: underline;
+}
+li{
+    list-style-type: none;
+}
+ul, #first, #telerik-footer{
+    text-align: center;
+}
+#first{
+    font-size: 40px;
+}
+.posted, .posted-by{
+    font-size: 11px;
+    text-decoration: none;
+    color: black;
+}

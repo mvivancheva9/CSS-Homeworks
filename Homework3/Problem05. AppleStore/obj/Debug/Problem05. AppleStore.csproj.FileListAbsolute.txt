@@ -1,0 +1,5 @@
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem05. AppleStore\bin\Problem05.AppleStore.dll.config
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem05. AppleStore\bin\Problem05.AppleStore.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem05. AppleStore\bin\Problem05.AppleStore.pdb
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem05. AppleStore\obj\Debug\Problem05.AppleStore.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework3\Problem05. AppleStore\obj\Debug\Problem05.AppleStore.pdb

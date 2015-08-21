@@ -1,0 +1,6 @@
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem03. ForumPosts\bin\Problem03.ForumPosts.dll.config
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem03. ForumPosts\bin\Problem03.ForumPosts.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem03. ForumPosts\bin\Problem03.ForumPosts.pdb
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem03. ForumPosts\obj\Debug\Problem03. ForumPosts.csprojResolveAssemblyReference.cache
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem03. ForumPosts\obj\Debug\Problem03.ForumPosts.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem03. ForumPosts\obj\Debug\Problem03.ForumPosts.pdb

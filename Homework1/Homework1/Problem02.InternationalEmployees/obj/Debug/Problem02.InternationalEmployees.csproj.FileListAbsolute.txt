@@ -1,0 +1,6 @@
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem02.InternationalEmployees\bin\Problem02.InternationalEmployees.dll.config
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem02.InternationalEmployees\bin\Problem02.InternationalEmployees.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem02.InternationalEmployees\bin\Problem02.InternationalEmployees.pdb
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem02.InternationalEmployees\obj\Debug\Problem02.InternationalEmployees.csprojResolveAssemblyReference.cache
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem02.InternationalEmployees\obj\Debug\Problem02.InternationalEmployees.dll
+E:\Telerik Academy Courses\CSS\Homework\Homework1\Homework1\Problem02.InternationalEmployees\obj\Debug\Problem02.InternationalEmployees.pdb
